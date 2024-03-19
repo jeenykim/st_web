@@ -20,7 +20,7 @@ with st.spinner(text="페이지 로딩중..."):
 
 # 페이지 헤더, 서브헤더 제목 설정
 st.header("지니킴 페이지에 오신걸 환영합니다❤️💕❤️")
-st.subheader("스트림릿 기능 맛보기")
+st.subheader("스트림릿 페이지입니다")
 
 # 페이지 컬럼 분할(예: 부트스트랩 컬럼, 그리드)
 cols = st.columns((1, 1, 2))
