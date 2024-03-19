@@ -8,10 +8,15 @@ from urllib.error import URLError
 
 # 페이지 기본 설정
 st.set_page_config(
-    page_icon="🤩",
+    page_icon="🤩🐙😍",
     page_title="지니킴의 스트림릿 배포하기",
     layout="wide",
 )
+# VSCode 에서 이모지(emoji)
+# Windows 환경 
+# 'Win' + '.'
+# Mac 환경
+# 'control' + 'command' + 'Space'
 
 st.markdown("# Mapping Demo")
 st.sidebar.header("Mapping Demo")
