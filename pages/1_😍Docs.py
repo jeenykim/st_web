@@ -4,7 +4,7 @@ import streamlit as st
 
 # 페이지 기본 설정
 st.set_page_config(
-    page_icon="🐶",
+    page_icon="🐙😍",
     page_title="지니킴의 스트림릿 배포하기",
     layout="wide",
 )
@@ -22,7 +22,7 @@ if st.button("app.py 코드 보기"):
 
     # 페이지 기본 설정
   st.set_page_config(
-      page_icon="🐶",
+      page_icon="🐙😍",
       page_title="지니킴의 스트림릿 배포하기",
       layout="wide",
   )
